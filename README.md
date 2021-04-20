@@ -1,7 +1,7 @@
 # Landing Page Project
 ======================
 
-[Udacity](https://www.udacity.com/)
+## [Udacity](https://www.udacity.com/)
 ![Udacity Logo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Udacity_logo.png)
 
 
@@ -11,7 +11,7 @@
 
 * This project is a process of turning a static landing webpage into a dynamically responsive and interactive webpage.
 
-* This project was accomplished throught the power of:
+* This project was accomplished with the following tools:
     * HTML
     * CSS
     * Javascript, for the most part.
@@ -60,5 +60,5 @@
 
 
 
-**Ahmed Emad Ghodaia**
+**Ahmed Emad Ghodaia**  
 Udacity Web Development Professional Track Student
