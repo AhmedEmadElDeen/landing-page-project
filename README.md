@@ -1,5 +1,5 @@
 # Landing Page Project
-======================
+
 
 ## [Udacity](https://www.udacity.com/)
 ![Udacity Logo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Udacity_logo.png)
