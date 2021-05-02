@@ -21,7 +21,7 @@
 * All features are readily usable across all devices.
 * Active sections have animated and distinctive styling.
 * Multiple sections with the capacity to add an indefinite number of sections that will recieve the exact same styling.
-* Dynamic and automatically updating naveigation menu that provides easy access to the sections' contents.
+* Dynamic and automatically updating navigation menu that provides easy access to the sections' contents.
 
 
 ### Details
